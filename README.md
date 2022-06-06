@@ -114,6 +114,7 @@ In case these packages are not installed, please run the following lines of code
   !pip install pandas
   !pip install -U scikit-learn
   ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
