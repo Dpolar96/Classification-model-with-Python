@@ -29,10 +29,10 @@
   <a href="https://github.com/Dpolar96/Classification-model-with-Python">
   </a>
 
-<h3 align="center">Data Optimization - Cornology Case</h3>
+<h3 align="center">Classification Model - Game of Thrones</h3>
 
   <p align="center">
-    Data optimization group project in which through Python and Excel was determined an optimal route for this case
+    Machine learning project in which the goal was to determine the living status of GOT characters
     <br />
     <a href="https://github.com/Dpolar96/Classification-model-with-Python"><strong>Explore the docs »</strong></a>
     <br />
@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This is a group project in which through Jupyter Notebook and Excel it was analyzed the data from the case to determine an optimal route which would either generate the lowest loss or highest profits.
+This is an individual machine learning project in which the goal was to determine whether a Game of Thrones character was alive based on certain characteristics, such as their noble status, culture, whether they are married or their parents are alive among other characteristics. This project included also data imputation to fill in missing values as well feature engineering over some other characteristics based on the data.
 
 ### Built With
 
